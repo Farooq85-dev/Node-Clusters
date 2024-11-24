@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/Farooq85-dev/Node-Clusters.git",
   "author": "Muhammad Farooq <irfankhans786787788@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
