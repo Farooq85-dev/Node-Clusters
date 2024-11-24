@@ -1,0 +1,8 @@
+{
+  "name": "Node-Clusters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Farooq85-dev/Node-Clusters.git",
+  "author": "Muhammad Farooq <irfankhans786787788@gmail.com>",
+  "license": "MIT"
+}
